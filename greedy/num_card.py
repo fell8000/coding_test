@@ -6,3 +6,4 @@ for i in range(n):
     min_=min(li_)
     result=max(result,min_)
 print(result)
+
